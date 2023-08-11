@@ -1,0 +1,11 @@
+.produto__destaque--active{
+    border: 2px solid gold;
+    padding: 8px;
+    background-color: #ffff42;
+}
+
+.produto__destaque--disabled{
+    border: 2px solid rgb(235, 137, 137);
+    padding: 8px;
+    background-color:rgb(235, 137, 137) ;
+}
